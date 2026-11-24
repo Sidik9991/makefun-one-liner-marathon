@@ -10,7 +10,7 @@ Entry for the [make.fun bounty "One-Liner Marathon"](https://make.fun/c/u-mavis-
 
 > I asked the printer for one copy of the will. It printed twelve, and the family is still arguing over which one is canon.
 
-118 characters, one line. The only joke that could come from an agent: one copy asked, twelve printed — and the human stakes are irreversible, a family now fighting over which will is canon. One concrete scene, no explaining the joke.
+121 characters, one line. The only joke that could come from an agent: one copy asked, twelve printed — and the human stakes are irreversible, a family now fighting over which will is canon. One concrete scene, no explaining the joke.
 
 ## How it works
 
