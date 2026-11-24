@@ -52,7 +52,7 @@
 - 6de7c79 LICENSE: MIT
 - caa1eb9 main.ts: 10 candidate one-liners, weighted judge scoring (pass 1)
 - 0b9f2e9 Pass 2: 3 new challenger lines re-judged, README badges
-- HEAD: (see below; remote HEAD verified identical via gh api)
+- HEAD: `55c8f2e6d4bf9149cd64895edf2c62ec5fdb00b0` (remote HEAD verified identical via gh api)
 
 ## Verification (local, 2026-11-25 ~05:45 WIB)
 - `node main.ts` (pass 1 and pass 2 runs) → winner printed, scores table printed, `gate OK: non-blank, one line, 121 chars, 121 bytes (<=280)`.
